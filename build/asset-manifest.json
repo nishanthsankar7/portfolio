@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f0800a41.chunk.css",
+    "main.js": "/portfolio/static/js/main.d4471cd8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d4471cd8.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8686f7ba.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8686f7ba.js.map",
+    "static/js/2.302a917f.chunk.js": "/portfolio/static/js/2.302a917f.chunk.js",
+    "static/js/2.302a917f.chunk.js.map": "/portfolio/static/js/2.302a917f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.5201333fd6050d3f3eaa40332f23bfd1.js": "/portfolio/precache-manifest.5201333fd6050d3f3eaa40332f23bfd1.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.f0800a41.chunk.css.map": "/portfolio/static/css/main.f0800a41.chunk.css.map",
+    "static/js/2.302a917f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.302a917f.chunk.js.LICENSE.txt",
+    "static/media/godzilla.png": "/portfolio/static/media/godzilla.1c04c812.png",
+    "static/media/mountains.png": "/portfolio/static/media/mountains.e4983f28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8686f7ba.js",
+    "static/js/2.302a917f.chunk.js",
+    "static/css/main.f0800a41.chunk.css",
+    "static/js/main.d4471cd8.chunk.js"
+  ]
+}
